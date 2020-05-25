@@ -1,0 +1,13 @@
+1) habitat model --> fullh118.pth
+
+
+https://drive.google.com/open?id=19ZnTF8O32lPWQWc77Fwodb1-I_butAXT   
+
+
+
+
+
+2) animal model --> rega118.pth
+ 
+https://drive.google.com/open?id=1tA4uNV0s-8Tw0qK9HOUBRPNApKX5Bf6-
+
