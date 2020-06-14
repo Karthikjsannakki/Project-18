@@ -10,4 +10,3 @@ Task 3A - Creating and training models to classify Animals and Habitats.<br/>
 
 Task 3B - Given an arena image print Animals and Habitats present in the arena.<br/>
 
-
